@@ -122,8 +122,8 @@ Vueify is pre-configured to work with Babel. Simply install Babel-related depend
 
 ``` bash
 npm install\
-  babel-core\
-  babel-preset-es2015\
+  @babel/core\
+  @babel/preset-env\
   --save-dev
 ```
 
